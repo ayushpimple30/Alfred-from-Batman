@@ -1,5 +1,5 @@
 # 🦇 Alfred ~ Your Logical, Memory Keeping AI Butler
-<img width="860" height="645" alt="image" src="https://github.com/user-attachments/assets/80e6d86d-1a7d-4733-a0e0-b593276b611e" />
+<img width="990" height="645" alt="image" src="https://github.com/user-attachments/assets/80e6d86d-1a7d-4733-a0e0-b593276b611e" />
 
 
 > "Some men just want to watch the world burn. I just want to remember your name, sir."
@@ -140,3 +140,8 @@ MIT — do whatever you like with it, sir.
 ---
 
 <p align="center"><i>"It's not who I am underneath, but what I remember, that defines me."</i></p>
+
+<img width="990" height="500" alt="giphy" src="https://github.com/user-attachments/assets/4c19062e-82ce-4f74-98d5-f3c5be1ab74c" />
+
+
+
