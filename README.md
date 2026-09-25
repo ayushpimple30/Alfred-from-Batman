@@ -1,4 +1,4 @@
-# 🦇 Alfred — Your Logical, Memory-Keeping AI Butler
+# 🦇 Alfred ~ Your Logical, Memory-Keeping AI Butler
 <img width="860" height="645" alt="image" src="https://github.com/user-attachments/assets/80e6d86d-1a7d-4733-a0e0-b593276b611e" />
 
 
