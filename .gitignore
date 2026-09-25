@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+alfred_memory.json
+.env
+.venv/
+venv/
